@@ -1,4 +1,4 @@
-
+# This is example of assertion
 def divide_secure(number, divisor):
     assert divisor != 0, "Divided a number by zero!"
     return number / divisor
